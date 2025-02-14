@@ -64,7 +64,9 @@ pip install numpy pandas scikit-learn
 - Deploy the model as a web application using Flask or FastAPI.
 
 ## Author
-**Shivendra Singh**
+**Shivendra Singh Patel**
+
+** THNAKS **
 
 
 
