@@ -65,6 +65,7 @@ pip install numpy pandas scikit-learn
 
 ## Author
 **Shivendra Singh Patel**
+ Follow Me -  [LinkedIn](https://www.linkedin.com/in/shivendraspatel/) 
 
 ** THNAKS **
 
